@@ -8,7 +8,7 @@ module.exports.registerNote = function registerNote(req, res, next) {
 
 module.exports.getNotes = function getNotes(req, res, next) {
   res.send({
-    message: 'This is the mockup controller for getNotes'
+    message: 'This is the MODIFIED controller for getNotes'
   });
 };
 

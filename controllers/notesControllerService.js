@@ -14,7 +14,7 @@ module.exports.getNotes = function getNotes(req, res, next) {
 
 module.exports.updateNote = function updateNote(req, res, next) {
   res.send({
-    message: 'This is the mockup controller for updateNote'
+    message: 'This is the a mockup controller for updateNote'
   });
 };
 
